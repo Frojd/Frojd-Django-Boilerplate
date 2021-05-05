@@ -21,7 +21,7 @@
         "@sentry/node": "^6.3.5",
         "@sentry/webpack-plugin": "^1.15.1",
         "@svgr/webpack": "^5.5.0",
-        "@types/react": "^17.0.4",
+        "@types/react": "^17.0.5",
         "classnames": "^2.3.1",
         "i18next": "^20.2.2",
         "next": "10.2.0",
